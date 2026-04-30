@@ -32,6 +32,8 @@ dotnet build
 
 ## References
 
-**Documentation**: https://blazor.syncfusion.com/documentation/datagrid/row-drag-and-drop
+**Documentation**: 
+* https://blazor.syncfusion.com/documentation/datagrid/row-drag-and-drop
+* https://blazor.syncfusion.com/documentation/datagrid/connecting-to-adaptors/custom-adaptor
 
 **Online example**: https://blazor.syncfusion.com/demos/datagrid/row-drag-and-drop?theme=bootstrap5
