@@ -33,7 +33,7 @@ The sample includes:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Backiaraj/EJ2-DataGrid-BlazorServer-Drag-and-Drop-CustomAdaptor.git
+git clone https://github.com/SyncfusionExamples/EJ2-DataGrid-BlazorServer-Drag-and-Drop-CustomAdaptor.git
 cd DragandDropWithCustomAdaptor
 ```
 
